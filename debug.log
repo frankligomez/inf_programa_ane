@@ -1,0 +1,8 @@
+[1121/164536:INFO:CONSOLE(24)] "Uncaught TypeError: Object #<Object> has no method 'callbackTunnelAsync'", source: http://download.macromedia.com/pub/edgetools/animate/3/currentversion.js?t=235 (24)
+[1127/120809:INFO:CONSOLE(24)] "Uncaught TypeError: Object #<Object> has no method 'callbackTunnelAsync'", source: http://download.macromedia.com/pub/edgetools/animate/3/currentversion.js?t=623 (24)
+[1127/120928:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
+[1127/121125:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
